@@ -1,8 +1,8 @@
 {
-  "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
-  "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-  "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "interstitial_frequency": 5,
-  "daily_interstitial_cap": 10,
-  "daily_rewarded_cap": 5
-}
+    "interstitial_ad_unit_id": "ca-app-pub-9916612284657115/5850381729",
+    "rewarded_ad_unit_id": "ca-app-pub-9916612284657115/9789626732",
+    "banner_ad_unit_id": "ca-app-pub-9916612284657115/8636327160",
+    "interstitial_frequency": 5,
+    "daily_interstitial_cap": 10,
+    "daily_rewarded_cap": 5
+  }
